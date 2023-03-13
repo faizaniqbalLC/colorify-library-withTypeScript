@@ -7,6 +7,7 @@
 With NPM:
 
 ```bash
+
 $ npm install colorify-library
 ```
 
