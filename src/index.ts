@@ -13,3 +13,7 @@ export class Log {
     console.log(`%c ${msg}`, "color:black; background:yellow");
   }
 }
+/**
+ *
+ * this is my first library that i created.
+ */
