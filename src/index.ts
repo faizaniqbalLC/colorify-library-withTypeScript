@@ -16,4 +16,5 @@ export class Log {
 /**
  *
  * this is my first library that i created.
+ * I added some cool ffeatures in it.
  */
