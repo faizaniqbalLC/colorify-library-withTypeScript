@@ -7,6 +7,7 @@ export class Log {
   }
 
   static info(msg: string) {
+    // showing info message in console
     console.log(`%c ${msg}`, "color:black; background:yellow");
   }
 }
