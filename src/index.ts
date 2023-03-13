@@ -18,6 +18,6 @@ export class Log {
  * this is my first library that i created.
  * I added some cool ffeatures in it.
  * this is about console log messages
- * thannks for seeing my code.
+ * thanks for seeing my code.
  * happy coding DEAR FOLKS
  */
