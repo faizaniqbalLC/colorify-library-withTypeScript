@@ -12,7 +12,7 @@ $ npm install colorify-library
 
 You can install Node.js easily with [NVM](https://github.com/nvm-sh/nvm#installing-and-updating) or [ASDF](https://blog.natterstefan.me/how-to-use-multiple-node-version-with-asdf).
 
-Colorify libray is a library for showing console log messages colorfully.
+Colorify libray is a library for showing console log messages colorfully/
 
 **Use case ( Colorify using React component )**
 
