@@ -19,4 +19,5 @@ export class Log {
  * I added some cool ffeatures in it.
  * this is about console log messages
  * thannks for seeing my code.
+ * happy coding DEAR FOLKS
  */
