@@ -1,6 +1,6 @@
 **colorify-library-for-console-log-messages**
 
-[Documentation_Pending](pending)
+[Documentation_Pending](pending) 
 
 **Installing colorify-library**
 
