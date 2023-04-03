@@ -34,3 +34,6 @@ function App() {
   );
 }
 ```
+
+**LICENSE**
+[MIT License](LICENSE)
