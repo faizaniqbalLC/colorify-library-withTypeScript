@@ -1,4 +1,4 @@
-**colorify-library-for-console-log-messages**    
+**colorify-library-for-console-log-messages**
 
 [Documentation_Pending](pending) 
 
