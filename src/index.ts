@@ -20,4 +20,4 @@ export class Log {
  * this is about console log messages
  * thanks for seeing my code.
  * happy coding DEAR FOLKS
- */  
+ */
