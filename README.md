@@ -1,4 +1,4 @@
-**colorify-library-for-console-log-messages**
+# Log Messages NPM Library
 
 [Documentation_Pending](pending) 
 
