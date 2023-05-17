@@ -1,4 +1,4 @@
-# Log Messages NPM Library
+# Console Log Messages via NPM Library
 
 [Documentation_Pending](pending) 
 
