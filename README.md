@@ -1,4 +1,5 @@
-# Console Log Messages via NPM Library
+# Console Log Messages via NPM Library `colorfiy-library`
+
 
 [Documentation_Pending](pending) 
 
